@@ -1,6 +1,3 @@
-Got it! Here is a simple, fun, and personalized version of your **README.md**. I’ve shifted the tone to be "yours" so it’s ready to post.
-
----
 
 # 🚀 Alpha Dreamers: Loan Risk Predictor
 
